@@ -1,0 +1,2 @@
+manim render tests/slides.py Example
+manim-slides convert Example slides.html

@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools", "setuptools-scm"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ManimHL"
+version = "0.1.0"
+authors = [
+    { name = "César Godinho" }
+]
+description = "A small wrapper of manim-slides to make it easy to create beautiful presentations."
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "LICENSE :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent"
+]

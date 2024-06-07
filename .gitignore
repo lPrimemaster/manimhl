@@ -1,0 +1,9 @@
+__pycache__/
+slides/
+slides_assets/
+media/
+*_assets/
+slides.html
+Example
+update.sh
+src/ManimHL.egg-info
